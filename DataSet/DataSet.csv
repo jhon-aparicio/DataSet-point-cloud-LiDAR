@@ -36,7 +36,9 @@
 2Body_Middle315_4;PNG;300x300;21/02/2023;Lidar;Persona;2;Interior;Natural;Y;1;0;N;N;N;1;60;N;Controlado
 2Body_Middle315_5;PNG;300x300;21/02/2023;Lidar;Persona;2;Interior;Natural;Y;1;0;N;N;N;1;60;N;Controlado
 2Body_Middle315_6;PNG;300x300;21/02/2023;Lidar;Persona;2;Interior;Natural;Y;1;0;N;N;N;1;60;N;Controlado
-Body_Front1;PNG;300x300;21/02/2023;Lidar;Persona;1;Interior;Natural;N;0;0;N;N;N;1;60;N;Controlado
+2Men_halt_1;PNG;300x301;17/03/2023;Lidar;Persona;2;Exterior;Natural;Y;1;1;N;N;N;1;60;N;Semi-Controlado
+2Men_halt_2;PNG;300x302;18/03/2023;Lidar;Persona;2;Exterior;Natural;Y;1;1;N;N;N;1;60;N;Semi-Controlado
+Body_Front1;PNG;300x303;21/02/2023;Lidar;Persona;1;Interior;Natural;N;0;0;N;N;N;1;60;N;Controlado
 Body_Front2;PNG;300x300;21/02/2023;Lidar;Persona;1;Interior;Natural;N;0;0;N;N;N;1;60;N;Controlado
 Body_Front3;PNG;300x300;21/02/2023;Lidar;Persona;1;Interior;Natural;N;0;0;N;N;N;1;60;N;Controlado
 Body_Front4;PNG;300x300;21/02/2023;Lidar;Persona;1;Interior;Natural;N;0;0;N;N;N;1;60;N;Controlado
@@ -120,26 +122,26 @@ Empty_5;PNG;300x300;21/02/2023;Lidar;Escena vacia;0;Interior;Natural;N;0;0;N;N;N
 Empty_6;PNG;300x300;21/02/2023;Lidar;Escena vacia;0;Interior;Natural;N;0;0;N;N;N;1;60;N;Controlado
 Empty_7;PNG;300x300;21/02/2023;Lidar;Escena vacia;0;Interior;Natural;N;0;0;N;N;N;1;60;N;Controlado
 Empty_8;PNG;300x300;21/02/2023;Lidar;Escena vacia;0;Interior;Natural;N;0;0;N;N;N;1;60;N;Controlado
-Empty_9;PNG;300x300;21/02/2023;Lidar;Escena vacia;0;Interior;Natural;N;0;0;N;N;N;1;60;N;Controlado
-Empty_10;PNG;300x300;21/02/2023;Lidar;Escena vacia;0;Interior;Natural;N;0;0;N;N;N;1;60;N;Controlado
-Empty_11;PNG;300x300;21/02/2023;Lidar;Escena vacia;0;Interior;Natural;N;0;0;N;N;N;1;60;N;Controlado
-Empty_12;PNG;300x300;21/02/2023;Lidar;Escena vacia;0;Interior;Natural;N;0;0;N;N;N;1;60;N;Controlado
-Empty_13;PNG;300x300;21/02/2023;Lidar;Escena vacia;0;Interior;Natural;N;0;0;N;N;N;1;60;N;Controlado
-Empty_14;PNG;300x300;21/02/2023;Lidar;Escena vacia;0;Interior;Natural;N;0;0;N;N;N;1;60;N;Controlado
-Empty_15;PNG;300x300;21/02/2023;Lidar;Escena vacia;0;Interior;Natural;N;0;0;N;N;N;1;60;N;Controlado
-Empty_16;PNG;300x300;21/02/2023;Lidar;Escena vacia;0;Interior;Natural;N;0;0;N;N;N;1;60;N;Controlado
-Exterior1_Front_1;PNG;300x300;21/02/2023;Lidar;Persona;1;Exterior;Natural;N;0;1;Y;N;N;1;24;N;Semi-Controlado
-Exterior1_Front_2;PNG;300x300;21/02/2023;Lidar;Persona;1;Exterior;Natural;N;0;1;Y;N;N;1;24;N;Semi-Controlado
-Exterior1_Front_3;PNG;300x300;21/02/2023;Lidar;Persona;1;Exterior;Natural;N;0;1;Y;N;N;1;24;N;Semi-Controlado
-Exterior1_Front_4;PNG;300x300;21/02/2023;Lidar;Persona;1;Exterior;Natural;N;0;1;Y;N;N;1;24;N;Semi-Controlado
-Exterior1_Front_5;PNG;300x300;21/02/2023;Lidar;Persona;1;Exterior;Natural;N;0;1;Y;N;N;1;24;N;Semi-Controlado
-Exterior1_Front_6;PNG;300x300;21/02/2023;Lidar;Persona;1;Exterior;Natural;N;0;1;Y;N;N;1;24;N;Semi-Controlado
-Exterior2_Front_1;PNG;300x300;21/02/2023;Lidar;Persona;1;Exterior;Natural;N;0;1;Y;N;N;1;24;Y;Semi-Controlado
-Exterior2_Front_2;PNG;300x300;21/02/2023;Lidar;Persona;1;Exterior;Natural;N;0;1;Y;N;N;1;24;Y;Semi-Controlado
-Exterior2_Front_3;PNG;300x300;21/02/2023;Lidar;Persona;1;Exterior;Natural;N;0;1;Y;N;N;1;24;Y;Semi-Controlado
-Exterior2_Front_4;PNG;300x300;21/02/2023;Lidar;Persona;1;Exterior;Natural;N;0;1;Y;N;N;1;24;Y;Semi-Controlado
-Exterior2_Front_5;PNG;300x300;21/02/2023;Lidar;Persona;1;Exterior;Natural;N;0;1;Y;N;N;1;24;Y;Semi-Controlado
-Exterior2_Front_6;PNG;300x300;21/02/2023;Lidar;Persona;1;Exterior;Natural;N;0;1;Y;N;N;1;24;Y;Semi-Controlado
+Empty_9;PNG;300x300;21/02/2023;Lidar;Escena vacia;0;Interior;Natural;N;0;0;N;N;N;1;60;N;Semi-Controlado
+Empty_10;PNG;300x300;21/02/2023;Lidar;Escena vacia;0;Interior;Natural;N;0;0;N;N;N;1;60;N;Semi-Controlado
+Empty_11;PNG;300x300;21/02/2023;Lidar;Escena vacia;0;Interior;Natural;N;0;0;N;N;N;1;60;N;Semi-Controlado
+Empty_12;PNG;300x300;21/02/2023;Lidar;Escena vacia;0;Interior;Natural;N;0;0;N;N;N;1;60;N;Semi-Controlado
+Empty_13;PNG;300x300;21/02/2023;Lidar;Escena vacia;0;Interior;Natural;N;0;0;N;N;N;1;60;N;Semi-Controlado
+Empty_14;PNG;300x300;21/02/2023;Lidar;Escena vacia;0;Interior;Natural;N;0;0;N;N;N;1;60;N;Semi-Controlado
+Empty_15;PNG;300x300;21/02/2023;Lidar;Escena vacia;0;Interior;Natural;N;0;0;N;N;N;1;60;N;Semi-Controlado
+Empty_16;PNG;300x300;21/02/2023;Lidar;Escena vacia;0;Interior;Natural;N;0;0;N;N;N;1;60;N;Semi-Controlado
+Exterior1_Front_1;PNG;300x300;21/02/2023;Lidar;Persona;1;Exterior;Natural;N;0;1;Y;N;N;1;60;N;Semi-Controlado
+Exterior1_Front_2;PNG;300x300;21/02/2023;Lidar;Persona;1;Exterior;Natural;N;0;1;Y;N;N;1;60;N;Semi-Controlado
+Exterior1_Front_3;PNG;300x300;21/02/2023;Lidar;Persona;1;Exterior;Natural;N;0;1;Y;N;N;1;60;N;Semi-Controlado
+Exterior1_Front_4;PNG;300x300;21/02/2023;Lidar;Persona;1;Exterior;Natural;N;0;1;Y;N;N;1;60;N;Semi-Controlado
+Exterior1_Front_5;PNG;300x300;21/02/2023;Lidar;Persona;1;Exterior;Natural;N;0;1;Y;N;N;1;60;N;Semi-Controlado
+Exterior1_Front_6;PNG;300x300;21/02/2023;Lidar;Persona;1;Exterior;Natural;N;0;1;Y;N;N;1;60;N;Semi-Controlado
+Exterior2_Front_1;PNG;300x300;21/02/2023;Lidar;Persona;1;Exterior;Natural;N;0;1;Y;N;N;1;60;Y;Semi-Controlado
+Exterior2_Front_2;PNG;300x300;21/02/2023;Lidar;Persona;1;Exterior;Natural;N;0;1;Y;N;N;1;60;Y;Semi-Controlado
+Exterior2_Front_3;PNG;300x300;21/02/2023;Lidar;Persona;1;Exterior;Natural;N;0;1;Y;N;N;1;60;Y;Controlado
+Exterior2_Front_4;PNG;300x300;21/02/2023;Lidar;Persona;1;Exterior;Natural;N;0;1;Y;N;N;1;60;Y;Controlado
+Exterior2_Front_5;PNG;300x300;21/02/2023;Lidar;Persona;1;Exterior;Natural;N;0;1;Y;N;N;1;60;Y;Controlado
+Exterior2_Front_6;PNG;300x300;21/02/2023;Lidar;Persona;1;Exterior;Natural;N;0;1;Y;N;N;1;60;Y;Controlado
 Hat_Front_1;PNG;300x300;21/02/2023;Lidar;Persona;1;Interior;Natural;N;0;0;N;N;N;1;60;Y;Controlado
 Hat_Front_2;PNG;300x300;21/02/2023;Lidar;Persona;1;Interior;Natural;N;0;0;N;N;N;1;60;Y;Controlado
 Hat_Front_3;PNG;300x300;21/02/2023;Lidar;Persona;1;Interior;Natural;N;0;0;N;N;N;1;60;Y;Controlado
@@ -160,6 +162,8 @@ Hat_Front270_5;PNG;300x300;21/02/2023;Lidar;Persona;1;Interior;Natural;N;0;0;N;N
 Hat_Front270_6;PNG;300x300;21/02/2023;Lidar;Persona;1;Interior;Natural;N;0;0;N;N;N;1;60;Y;Controlado
 Hat_Front270_7;PNG;300x300;21/02/2023;Lidar;Persona;1;Interior;Natural;N;0;0;N;N;N;1;60;Y;Controlado
 Hat_Front270_8;PNG;300x300;21/02/2023;Lidar;Persona;1;Interior;Natural;N;0;0;N;N;N;1;60;Y;Controlado
+Men1_halt_1;PNG;300x300;17/03/2023;Lidar;Persona;1;Exterior;Natural;N;0;1;N;N;N;1;60;Y;Semi-Controlado
+Men1_halt_2;PNG;300x300;17/03/2023;Lidar;Persona;1;Exterior;Natural;N;0;1;N;N;N;1;60;Y;Semi-Controlado
 Walk_90_1;PNG;300x300;21/02/2023;Lidar;Persona;1;Interior;Natural;N;0;0;N;N;N;1;60;N;Controlado
 Walk_90_2;PNG;300x300;21/02/2023;Lidar;Persona;1;Interior;Natural;N;0;0;N;N;N;1;60;N;Controlado
 Walk_90_3;PNG;300x300;21/02/2023;Lidar;Persona;1;Interior;Natural;N;0;0;N;N;N;1;60;N;Controlado
@@ -227,3 +231,21 @@ Weapon_Sit315_4;PNG;300x300;21/02/2023;Lidar;Persona;1;Interior;Natural;N;0;0;N;
 Weapon_Sit315_5;PNG;300x300;21/02/2023;Lidar;Persona;1;Interior;Natural;N;0;0;N;N;N;1;60;Y;Controlado
 Weapon_Sit315_6;PNG;300x300;21/02/2023;Lidar;Persona;1;Interior;Natural;N;0;0;N;N;N;1;60;Y;Controlado
 Square;PNG;300x300;21/02/2023;Lidar;Otro;1;Exterior;Natural;N;0;0;N;N;N;1;60;Y;No Controlado
+Women1_halt_1;PNG;300x301;17/03/2023;Lidar;Persona;1;Interior;Natural;N;0;0;N;N;N;1;60;Y;Controlado
+Women1_halt_3;PNG;300x302;17/03/2023;Lidar;Persona;1;Interior;Natural;N;0;0;N;N;N;1;60;Y;Controlado
+Women2_halt_1;PNG;300x303;17/03/2023;Lidar;Persona;1;Interior;Natural;N;0;0;N;N;N;1;60;Y;Controlado
+Women2_halt_2;PNG;300x304;17/03/2023;Lidar;Persona;1;Interior;Natural;N;0;0;N;N;N;1;60;Y;Controlado
+WomenL_back_;PNG;300x305;17/03/2023;Lidar;Persona;1;Interior;Natural;N;0;0;N;N;N;1;60;Y;Controlado
+WomenL_back_1;PNG;300x306;17/03/2023;Lidar;Persona;1;Interior;Natural;N;0;0;N;N;N;1;60;Y;Controlado
+WomenL_front_2;PNG;300x307;17/03/2023;Lidar;Persona;1;Interior;Natural;N;0;0;N;N;N;1;60;Y;Controlado
+WomenL_front45_;PNG;300x308;17/03/2023;Lidar;Persona;1;Interior;Natural;N;0;0;N;N;N;1;60;Y;Controlado
+WomenL_front45_1;PNG;300x309;17/03/2023;Lidar;Persona;1;Interior;Natural;N;0;0;N;N;N;1;60;Y;Controlado
+WomenL_front90_1;PNG;300x310;17/03/2023;Lidar;Persona;1;Interior;Natural;N;0;0;N;N;N;1;60;Y;Controlado
+WomenL_front90_3;PNG;300x311;17/03/2023;Lidar;Persona;1;Interior;Natural;N;0;0;N;N;N;1;60;Y;Controlado
+WomenL_front315_;PNG;300x312;17/03/2023;Lidar;Persona;1;Interior;Natural;N;0;0;N;N;N;1;60;Y;Controlado
+WomenL_front315_1;PNG;300x313;17/03/2023;Lidar;Persona;1;Interior;Natural;N;0;0;N;N;N;1;60;Y;Controlado
+Women_hat_;PNG;300x314;17/03/2023;Lidar;Persona;1;Interior;Natural;N;0;0;N;N;N;1;60;Y;Controlado
+Women_hat45_;PNG;300x315;17/03/2023;Lidar;Persona;1;Exterior;Natural;N;0;0;N;N;N;1;60;Y;Controlado
+Women_hat45_1;PNG;300x316;17/03/2023;Lidar;Persona;1;Exterior;Natural;N;0;0;N;N;N;1;60;Y;Controlado
+WomenL_walk_;PNG;300x317;17/03/2023;Lidar;Persona;1;Exterior;Natural;N;0;0;N;N;N;1;60;Y;Controlado
+WomenL_walk_1;PNG;300x318;17/03/2023;Lidar;Persona;1;Exterior;Natural;N;0;0;N;N;N;1;60;Y;Controlado
